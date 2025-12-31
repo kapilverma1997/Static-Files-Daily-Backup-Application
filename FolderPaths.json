@@ -1,3 +1,98 @@
-[{
-	"sourceFolderPath":"D:\\Others\\Static Files Daily Backup Application\\New folder\\SiteImages"
-}]
+[
+  {
+    "projectName": "MTLinx",
+    "sourceFolderPath": "D:\\Moldtrax\\MTLinx\\mtlinx.infodatixhosting.com\\DropdownTemplateFormat"
+  },
+  {
+    "projectName": "MTLinx",
+    "sourceFolderPath": "D:\\Moldtrax\\MTLinx\\mtlinx.infodatixhosting.com\\SiteImages"
+  },
+  {
+    "projectName": "MTLinx",
+    "sourceFolderPath": "D:\\Moldtrax\\MTLinx\\mtlinx.infodatixhosting.com\\TroubleShooterImage"
+  },
+  {
+    "projectName": "MTLinx2",
+    "sourceFolderPath": "D:\\Moldtrax\\MTLinx2\\mtlinx2.infodatixhosting.com\\DropdownTemplateFormat"
+  },
+  {
+    "projectName": "MTLinx2",
+    "sourceFolderPath": "D:\\Moldtrax\\MTLinx2\\mtlinx2.infodatixhosting.com\\SiteImages"
+  },
+  {
+    "projectName": "MTLinx2",
+    "sourceFolderPath": "D:\\Moldtrax\\MTLinx2\\mtlinx2.infodatixhosting.com\\TroubleShooterImage"
+  },
+  {
+    "projectName": "RainbirdTest",
+    "sourceFolderPath": "D:\\Moldtrax\\MTLinx2\\Rainbird Test\\DropdownTemplateFormat"
+  },
+  {
+    "projectName": "RainbirdTest",
+    "sourceFolderPath": "D:\\Moldtrax\\MTLinx2\\Rainbird Test\\SiteImages"
+  },
+  {
+    "projectName": "Tessy",
+    "sourceFolderPath": "D:\\Moldtrax\\MTLinx2\\tessy.mtlinx2.infodatixhosting.com\\DropdownTemplateFormat"
+  },
+  {
+    "projectName": "Tessy",
+    "sourceFolderPath": "D:\\Moldtrax\\MTLinx2\\tessy.mtlinx2.infodatixhosting.com\\SiteImages"
+  },
+  {
+    "projectName": "Tessy",
+    "sourceFolderPath": "D:\\Moldtrax\\MTLinx2\\tessy.mtlinx2.infodatixhosting.com\\TroubleShooterImage"
+  },
+  {
+    "projectName": "MTLinx2Test",
+    "sourceFolderPath": "D:\\Moldtrax\\MTLinx2Test\\DropdownTemplateFormat"
+  },
+  {
+    "projectName": "MTLinx2Test",
+    "sourceFolderPath": "D:\\Moldtrax\\MTLinx2Test\\SiteImages"
+  },
+  {
+    "projectName": "MTLinx2Test",
+    "sourceFolderPath": "D:\\Moldtrax\\MTLinx2Test\\TroubleShooterImage"
+  },
+  {
+    "projectName": "HT_MTWeb",
+    "sourceFolderPath": "D:\\Moldtrax\\MTWeb\\ht.mtweb.infodatixhosting.com\\DropdownTemplateFormat"
+  },
+  {
+    "projectName": "HT_MTWeb",
+    "sourceFolderPath": "D:\\Moldtrax\\MTWeb\\ht.mtweb.infodatixhosting.com\\SiteImages"
+  },
+  {
+    "projectName": "HT_MTWeb",
+    "sourceFolderPath": "D:\\Moldtrax\\MTWeb\\ht.mtweb.infodatixhosting.com\\TroubleShooterImage"
+  },
+  {
+    "projectName": "Merit_MTWeb",
+    "sourceFolderPath": "D:\\Moldtrax\\MTWeb\\merit.mtweb.infodatixhosting.com\\DropdownTemplateFormat"
+  },
+  {
+    "projectName": "Merit_MTWeb",
+    "sourceFolderPath": "D:\\Moldtrax\\MTWeb\\merit.mtweb.infodatixhosting.com\\SiteImages"
+  },
+  {
+    "projectName": "Merit_MTWeb",
+    "sourceFolderPath": "D:\\Moldtrax\\MTWeb\\merit.mtweb.infodatixhosting.com\\TroubleShooterImage"
+  },
+  {
+    "projectName": "MTWeb",
+    "sourceFolderPath": "D:\\Moldtrax\\MTWeb\\mtweb.infodatixhosting.com\\DropdownTemplateFormat"
+  },
+  {
+    "projectName": "MTWeb",
+    "sourceFolderPath": "D:\\Moldtrax\\MTWeb\\mtweb.infodatixhosting.com\\SiteImages"
+  },
+  {
+    "projectName": "MTWeb",
+    "sourceFolderPath": "D:\\Moldtrax\\MTWeb\\mtweb.infodatixhosting.com\\TroubleShooterImage"
+  },
+  {
+    "projectName": "MongoDbBackup",
+    "sourceFolderPath": "d:\\node\\temp\\backupzip"
+  }
+]

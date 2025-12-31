@@ -1,6 +1,5 @@
 ﻿using Dropbox.Api;
 using Dropbox.Api.Files;
-using System.Formats.Tar;
 using System.IO.Compression;
 
 namespace Static_Files_Daily_Backup_Application
@@ -20,7 +19,7 @@ namespace Static_Files_Daily_Backup_Application
 
                 foreach (var item in folderPath!)
                 {
-                    string zipFile = item.sourceFolderPath + "_" + DateTime.Now.ToString("yyyyMMdd_HHmmss") + ".zip";
+                    string zipFile = item.sourceFolderPath + $"_[{item.projectName}]_" + DateTime.Now.ToString("yyyyMMdd_HHmmss") + ".zip";
                     ZipFile.CreateFromDirectory(item.sourceFolderPath, zipFile, CompressionLevel.Optimal, includeBaseDirectory: true);
 
                     string dateFolderName = $"StaticFilesBackup_{DateTime.Now:MM_dd_yyyy}";

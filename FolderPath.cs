@@ -8,6 +8,7 @@ namespace Static_Files_Daily_Backup_Application
 {
     internal class FolderPath
     {
+        public string projectName { get; set; }=string.Empty;
         public string sourceFolderPath { get; set; }=string.Empty;
     }
 }
